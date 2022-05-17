@@ -1,6 +1,6 @@
 # mobileapp
-App to find different cocktails
+App for finding different cocktails
 
 Technologies:
 
-React, Javascript, Firebase authentication
+React, Javascript, Firebase authentication, Material-design
