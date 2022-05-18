@@ -3,4 +3,4 @@ App for finding different cocktails
 
 Technologies:
 
-React, Javascript, Material-design, (Firebase authentication)
+React, Javascript, React-native-elements
